@@ -16,3 +16,6 @@ npm start
 ```
 npm run build
 ```
+
+
+[View the App Live](https://reactadmin2.netlify.app/)
